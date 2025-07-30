@@ -1,0 +1,1 @@
+Fake vs Real Article Detector – A Flask-based web app that detects AI-generated content and checks similarity between two HTML articles using TF-IDF and readability heuristics. Upload two files and get instant results!
